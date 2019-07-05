@@ -1,0 +1,1 @@
+sudo apt-get install -y libglew-dev freeglut3-dev libmagick++-dev libglfw3-dev libassimp-dev cmake automake libglm-dev libgtk2.0-dev libgimp2.0-dev

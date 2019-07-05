@@ -1,0 +1,204 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 27.06.2019 06:50:32
+
+newmtl 10___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka //.Trash-1000/files/texturi lespezi/depositphotos_23819707-Seamless-Texture-of-Yellow-Sandstone-Brick-Wall..jpg
+	map_Kd //.Trash-1000/files/texturi lespezi/depositphotos_23819707-Seamless-Texture-of-Yellow-Sandstone-Brick-Wall..jpg
+
+newmtl 09___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka //.Trash-1000/files/texturi lespezi/stone_wall___d664_by_agf81-d5q29yk.jpg
+	map_Kd //.Trash-1000/files/texturi lespezi/stone_wall___d664_by_agf81-d5q29yk.jpg
+
+newmtl 08___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka //.Trash-1000/files/texturi lespezi/Stone_wall.jpg
+	map_Kd //.Trash-1000/files/texturi lespezi/Stone_wall.jpg
+
+newmtl 03___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka //.Trash-1000/files/texturi lespezi/images2.jpg
+	map_Kd //.Trash-1000/files/texturi lespezi/images2.jpg
+
+newmtl Material__0
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka //.Trash-1000/files/texturi lespezi/images1.jpg
+	map_Kd //.Trash-1000/files/texturi lespezi/images1.jpg
+
+newmtl 20___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka //.Trash-1000/files/texturi lespezi/Old_bricks__hi_res__seamless_by_ntyb (1).jpg
+	map_Kd //.Trash-1000/files/texturi lespezi/Old_bricks__hi_res__seamless_by_ntyb (1).jpg
+
+newmtl Material__39
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka //.Trash-1000/files/texturi lespezi/Natural_Wood_Texture_by_shawnaize.jpg
+	map_Kd //.Trash-1000/files/texturi lespezi/Natural_Wood_Texture_by_shawnaize.jpg
+
+newmtl 13___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka //.Trash-1000/files/texturi lespezi/BIANCO_STATUARIETTO.jpg
+	map_Kd //.Trash-1000/files/texturi lespezi/BIANCO_STATUARIETTO.jpg
+
+newmtl Material__38
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka //.Trash-1000/files/texturi lespezi/Marmura-alba_989841_1299060381.jpg
+	map_Kd //.Trash-1000/files/texturi lespezi/Marmura-alba_989841_1299060381.jpg
+
+newmtl wire_225087143
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.8824 0.3412 0.5608
+	Kd 0.8824 0.3412 0.5608
+	Ks 0.3500 0.3500 0.3500
+
+newmtl 14___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka //.Trash-1000/files/texturi lespezi/Textures_wallpapers_129.jpg
+	map_Kd //.Trash-1000/files/texturi lespezi/Textures_wallpapers_129.jpg
+
+newmtl 01___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka //.Trash-1000/files/texturi lespezi/metal-texture-dreamtextures-4-20110217.jpg
+	map_Kd //.Trash-1000/files/texturi lespezi/metal-texture-dreamtextures-4-20110217.jpg
+
+newmtl wire_177147027
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.6941 0.5765 0.1059
+	Kd 0.6941 0.5765 0.1059
+	Ks 0.3500 0.3500 0.3500
+
+newmtl 04___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka //.Trash-1000/files/texturi lespezi/ceramic_texture_9101051.JPG
+	map_Kd //.Trash-1000/files/texturi lespezi/ceramic_texture_9101051.JPG
+
+newmtl Material__1
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka //.Trash-1000/files/texturi lespezi/13083435_2_644x461_caramida-tigle-barne-de-lemn-pret-avantajos-fotografii.jpg
+	map_Kd //.Trash-1000/files/texturi lespezi/13083435_2_644x461_caramida-tigle-barne-de-lemn-pret-avantajos-fotografii.jpg
